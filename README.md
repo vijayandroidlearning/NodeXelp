@@ -3,6 +3,8 @@ AssignmentTask
 
 Please follow the steps to configure:
 
+create a folder:
+
 1. In terminal : npm i express
 2. In terminal : npm i -D nodemon
 3. In terminal : npm run dev / node index.js
